@@ -25,6 +25,9 @@ https://developers.google.com/certification/mobile-web-specialist/study-guide/pe
 <h3>Testing and debugging<h3>
 https://developers.google.com/certification/mobile-web-specialist/study-guide/testing
 
+<h3>ES2015 concepts and syntax</h3>
+https://developers.google.com/certification/mobile-web-specialist/study-guide/es2015
+
 
 <h4>General</h4>
 https://codelabs.developers.google.com/dev-pwa-training/
