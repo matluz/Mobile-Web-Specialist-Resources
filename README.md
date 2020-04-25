@@ -17,12 +17,12 @@ https://codelabs.developers.google.com/codelabs/pwa-scripting-the-service-worker
 https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker
 https://github.com/mdn/pwa-examples/blob/master/a2hs
 
-<h3>Performance optimization and caching<h3>
+<h3>Performance optimization and caching</h3>
 https://web-worker-training.glitch.me/
 https://codelabs.developers.google.com/codelabs/pwa-indexed-db
 https://developers.google.com/certification/mobile-web-specialist/study-guide/performance
 
-<h3>Testing and debugging<h3>
+<h3>Testing and debugging</h3>
 https://developers.google.com/certification/mobile-web-specialist/study-guide/testing
 
 <h3>ES2015 concepts and syntax</h3>
